@@ -7,3 +7,4 @@
 [Програма](https://github.com/ElinaBohomaz/OOP.Bohomaz/blob/main/OOP/src/task1/README.md)
 
 ![{2C2C916E-589A-4448-8B5F-C1D4234DE862}](https://github.com/user-attachments/assets/0189cdb5-a342-487f-893f-07bae5642706)
+> Написати просту консольну програму (наприклад вивід на екран аргументів командної строки)
