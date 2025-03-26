@@ -29,7 +29,7 @@
 [Завдання](https://github.com/ElinaBohomaz/OOP.Bohomaz/blob/main/OOP/src/task2/readme.md)
 [/Код](https://github.com/ElinaBohomaz/OOP.Bohomaz/blob/main/OOP/src/task2/Main3.java)
 
-![img_3.png](image/img_3.png)
+![task2.3.jpg](image/task2.3.jpg)
 > Розробити клас для тестування коректності результатів обчислень та серіалізації/десеріалізації. Використовувати докладні коментарі для автоматичної генерації документації засобами javadoc.
 
 ### 2.4
@@ -44,3 +44,12 @@
 [/Код](https://github.com/ElinaBohomaz/OOP.Bohomaz/blob/main/OOP/src/task3/Main.java)
 
 ![task3.jpg](image/task3.jpg)
+> Використати код попередньої лабораторної, додавши збереження/відновлення результатів у колекції.
+
+> Реалізувати Factory Method для розширення ієрархії відображуваних класів.
+
+> Додати інтерфейс для фабричних об'єктів, що виводять результати.
+
+> Реалізувати методи виведення у текстовому вигляді.
+
+> Створити інтерфейс для фабричного методу.
