@@ -38,3 +38,9 @@
 
 ![img_4.png](image/img_4.png)
 > Визначити суму площ рівностороннього трикутника та рівностороннього прямокутника за заданою довжиною сторони у двійковій системі числення.
+
+## Завдання 3
+[Завдання](https://github.com/ElinaBohomaz/OOP.Bohomaz/blob/main/OOP/src/task3/Readme.md)
+[/Код](https://github.com/ElinaBohomaz/OOP.Bohomaz/blob/main/OOP/src/task3/Main.java)
+
+![task3.jpg](image/task3.jpg)
