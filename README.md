@@ -53,3 +53,18 @@
 > Реалізувати методи виведення у текстовому вигляді.
 
 > Створити інтерфейс для фабричного методу.
+
+## Завдання 4
+[Завдання](https://github.com/ElinaBohomaz/OOP.Bohomaz/blob/main/OOP/src/task4/Readme.md)
+[/Код](https://github.com/ElinaBohomaz/OOP.Bohomaz/blob/main/OOP/src/task4/Main.java)
+
+![task4.1.jpg](../../../image/task4.1.jpg) ![task4.2.jpg](../../../image/task4.2.jpg) ![task4.3.jpg](../../../image/task4.3.jpg)
+> Розширити попередній проект за допомогою Factory Method, додавши класи для відображення результатів у вигляді таблиці з налаштуванням параметрів.
+
+> Продемонструвати overriding, overloading та поліморфізм.
+
+> Реалізувати діалоговий інтерфейс.
+
+> Створити клас для тестування функціональності.
+
+> Додати javadoc для автоматичної генерації документації.
