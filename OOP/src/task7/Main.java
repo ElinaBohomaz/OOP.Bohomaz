@@ -284,6 +284,14 @@ class PinkUI extends JFrame {
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         getContentPane().setBackground(new Color(255, 200, 230));
 
+        // Додання іконки програми
+        try {
+            ImageIcon icon = new ImageIcon("C:\\Users\\Еля\\Desktop\\task7.jpg");  // Правильний шлях з подвійними зворотними слешами
+            setIconImage(icon.getImage());  // Задаємо іконку
+        } catch (Exception e) {
+            System.err.println("Не вдалося завантажити іконку: " + e.getMessage());
+        }
+
         // Макет головного вікна
         setLayout(new BorderLayout(10, 10));
 
